@@ -1,6 +1,6 @@
 import React from 'react';
 import users from './users.json';
-import axios, { Axios } from 'axios';
+import axios from 'axios';
 import { useEffect } from 'react';
 import { useState } from 'react';
 
